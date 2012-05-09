@@ -14,7 +14,7 @@
   Mapping Pathway ID to Pathway Name
 }
 \examples{
-pathID2Name("1221632")
+pathID2Name(c("1221632","75983"))
 }
 \author{
   Guangchuang Yu \url{http://ygc.name}

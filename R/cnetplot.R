@@ -10,14 +10,14 @@ list2graph <- function(inputList) {
 
 
 
-##' @importFrom igraph tkplot
-##' @importFrom igraph plot.igraph
-##' @importFrom igraph V
-##' @importFrom igraph "V<-"
-##' @importFrom igraph E
-##' @importFrom igraph "E<-"
-##' @importFrom igraph degree
-##' @importFrom igraph layout.fruchterman.reingold
+##' @importFrom igraph0 tkplot
+##' @importFrom igraph0 plot.igraph
+##' @importFrom igraph0 V
+##' @importFrom igraph0 "V<-"
+##' @importFrom igraph0 E
+##' @importFrom igraph0 "E<-"
+##' @importFrom igraph0 degree
+##' @importFrom igraph0 layout.fruchterman.reingold
 cnetplot <- function(inputList,
                      categorySize="geneNum",
                      showCategory=5,
