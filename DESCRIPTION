@@ -16,12 +16,12 @@ Imports:
     plyr,
     igraph0,
     qvalue,
-    graphics
+    graphics,
+    org.Hs.eg.db
 Suggests:
     clusterProfiler,
     DOSE,
-    GOSemSim,
-    org.Hs.eg.db
+    GOSemSim
 License: GPL-2
 biocViews: Bioinformatics,
     Pathways,

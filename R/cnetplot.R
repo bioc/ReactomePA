@@ -61,7 +61,7 @@ cnetplot <- function(inputList,
 		}
 	}
 	if (output == "fixed"){
-		igraph::plot.igraph(g,
+		igraph0::plot.igraph(g,
                                     vertex.label.font=2,
                                     vertex.label.color='#666666',
                                     vertex.label.cex=1.5,
