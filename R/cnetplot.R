@@ -1,4 +1,4 @@
-##' @importFrom igraph graph.data.frame
+##' @importFrom igraph0 graph.data.frame
 list2graph <- function(inputList) {
 	x <- data.frame()
 	for (i in 1:length(inputList)) {
