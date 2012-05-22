@@ -11,7 +11,7 @@
 ##' @export
 ##' @examples
 ##'
-##'     pathID2Name(c("1221632","75983"))
+##'     pathID2Name("1221632")
 ##'
 pathID2Name <- function(pathID) {
     pathName <- unlist(mget(pathID, reactomePATHID2NAME))

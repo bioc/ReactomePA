@@ -7,7 +7,7 @@
 \arguments{
   \item{geneID}{a vector of gene IDs}
 
-  \item{organism}{currently, only "human" supported.}
+  \item{annoDb}{annotation package name.}
 }
 \value{
   a vector of gene names.
@@ -17,7 +17,7 @@
 }
 \examples{
 gene <- as.character(1:10)
-	geneID2Name(gene, organism="human")
+	geneID2Name(gene, annoDb="org.Hs.eg.db")
 }
 \author{
   Guangchuang Yu \url{http://ygc.name}

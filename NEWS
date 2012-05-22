@@ -2,6 +2,7 @@ CHANGES IN VERSION 1.0.1
 ------------------------
  o change dependency for igraph to igraph0, 
    since igraph's next release is not backwards compatible <2012-05-09, Wed>
+ o fixed examples in geneID2Name.Rd <2012-05-22, Tue>   
    
 CHANGES IN VERSION 0.99.0
 ------------------------

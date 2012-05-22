@@ -3,7 +3,7 @@
 ##'
 ##' @title convert gene IDs to gene Names
 ##' @param geneID a vector of gene IDs
-##' @param organism currently, only "human" supported.
+##' @param annoDb annotation package name.
 ##' @return a vector of gene names.
 ##' @importMethodsFrom AnnotationDbi mget
 ##' @importFrom org.Hs.eg.db org.Hs.egSYMBOL
@@ -12,7 +12,7 @@
 ##' @examples
 ##'
 ##' 	gene <- as.character(1:10)
-##' 	geneID2Name(gene, organism="human")
+##' 	geneID2Name(gene, annoDb="org.Hs.eg.db")
 ##'
 
 ## geneID2Name <- function(geneID, organism="human") {
