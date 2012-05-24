@@ -9,7 +9,7 @@
   This class represents the result of Pathway enrichment
   analysis.
 }
-\section{Methods
+\section{Methods}{
 
 In the code snippets below, \code{x} is a \code{enrichPathwayResult} object.
 
@@ -19,9 +19,8 @@ In the code snippets below, \code{x} is a \code{enrichPathwayResult} object.
 \item{plot}{\code{plot(x)} visualize enrichment result.}
 }
 
-See \code{?\link{show}}, \code{?\link{summary}}, and \code{?\link{plot}} for details of operations on enrichPathwayResult objects.}{
+See \code{?\link{show}}, \code{?\link{summary}}, and \code{?\link{plot}} for details of operations on enrichPathwayResult objects.}
 
-}
 \author{
   Guangchuang Yu \url{http://ygc.name}
 }
