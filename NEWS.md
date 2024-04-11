@@ -1,4 +1,4 @@
-# ReactomePA 1.47.0.001
+# ReactomePA 1.47.1
 
 + Add a disclaimer in package Description to claim that this package is not affiliated with the Reactome team (2023-11-17, Fri)
 
