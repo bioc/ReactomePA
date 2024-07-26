@@ -1,7 +1,7 @@
 Package: ReactomePA
 Type: Package
 Title: Reactome Pathway Analysis
-Version: 1.49.0
+Version: 1.49.0.001
 Authors@R: c(person(given = "Guangchuang", family = "Yu",
 	   	    email = "guangchuangyu@gmail.com",
 		    role  = c("aut", "cre")),
@@ -24,7 +24,8 @@ Imports:
     reactome.db,
     igraph,
     graphite,
-    gson
+    gson,
+    yulab.utils (>= 0.1.5)
 Suggests:
     BiocStyle,
     clusterProfiler,
@@ -41,5 +42,5 @@ BugReports: https://github.com/GuangchuangYu/ReactomePA/issues
 Packaged: 2012-03-05 18:26:53 UTC; mcarlson
 biocViews: Pathways, Visualization, Annotation, MultipleComparison,
     GeneSetEnrichment, Reactome
-RoxygenNote: 7.3.0
+RoxygenNote: 7.3.2
 Encoding: UTF-8
