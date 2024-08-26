@@ -37,7 +37,7 @@ Suggests:
 VignetteBuilder: knitr
 ByteCompile: true
 License: GPL-2
-URL: https://yulab-smu.top/biomedical-knowledge-mining-book/
+URL: https://yulab-smu.top/contribution-knowledge-mining/
 BugReports: https://github.com/GuangchuangYu/ReactomePA/issues
 Packaged: 2012-03-05 18:26:53 UTC; mcarlson
 biocViews: Pathways, Visualization, Annotation, MultipleComparison,
