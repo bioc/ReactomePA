@@ -1,4 +1,4 @@
-# ReactomePA 1.49.0.001
+# ReactomePA 1.49.1
 
 + use `yulab.utils::yulab_msg()` for startup message (2024-07-26, Fri)
 
